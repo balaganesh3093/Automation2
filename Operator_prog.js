@@ -1,4 +1,4 @@
-var c = 4, d=1;
+var c = 5, d=1;
 
 console.log(c)
 console.log(c++)
