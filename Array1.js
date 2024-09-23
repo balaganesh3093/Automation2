@@ -1,5 +1,5 @@
 var sortedList = document.getElementById("sortedList");
-  var numbers = [8, 2, 5, 1, 7];
+  var numbers = [8, 2, 5, 1, 8];
 
   // Real-time update: Sort the array every 3 seconds
   setInterval(function() {
