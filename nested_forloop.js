@@ -1,6 +1,5 @@
 var tableBody = document.getElementById("realTimeTableBody");
 
-  // Nested loop for creating a dynamic table
   for (var i = 1; i <= 5; i++) {
     var row = document.createElement("tr");
 
