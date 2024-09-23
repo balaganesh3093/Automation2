@@ -1,4 +1,4 @@
-var a = 2, b=3;
+var a = 3, b=3;
 c= a+b;
 console.log("some of two numbers "+c);
 //Out put 5
