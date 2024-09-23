@@ -1,7 +1,7 @@
   var dynamicList = document.getElementById("dynamicList");
 
   // Populate a list in real-time
-  var fruits = ["Apple", "Banana", "Orange", "Grapes"];
+  var fruits = ["Apple", "Banana", "Orange", "Grapes", "orange"];
   for (var i = 0; i < fruits.length; i++) {
     setTimeout(function(index) {
       var listItem = document.createElement("li");
