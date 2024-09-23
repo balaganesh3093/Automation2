@@ -1,5 +1,4 @@
-<html>
-<body>
+
 
 <script>
   // Declare a variable
@@ -12,5 +11,3 @@
   {"}"}, 1000);
 </script>
 
-</body>
-</html>
