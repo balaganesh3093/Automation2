@@ -1,4 +1,4 @@
-var a = 10, b=10, c=9, d=11; //Logical operator
+var a = 10, b=10, c=9, d=12; //Logical operator
 
 if(a === b) {
     console.log("My a = "+a+" and b = " +b +" Values are equal")
